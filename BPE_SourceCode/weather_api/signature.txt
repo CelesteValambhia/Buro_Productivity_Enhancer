@@ -1,0 +1,5 @@
+"""
+Module:             Beuro Enhancement System
+SubModule:          Weather API Simple Wrapper
+Author:             Amey Mahadik <st174858@stud.uni-stuttgart.de>
+"""
